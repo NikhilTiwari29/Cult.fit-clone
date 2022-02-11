@@ -27,7 +27,6 @@ https://drive.google.com/file/d/1aK1KYeHhtNz4fKeeObu4ha4KxJqJkBVB/view
 4. EJS
 5. DB collections 
 
-
 # Features
 1. You will get fitness and health care related products.
 
@@ -107,16 +106,10 @@ After successful payment, this page confirms you that your order is placed.
 
 
 ### keshav mishra:boy:
->  [Linkedin](https://www.linkedin.com/in/mahesh-vaitla-81a096125)
-
-
-
-### Rajat Kumar:boy:
 >  [Linkedin](https://www.linkedin.com/in/keshav-mishra-55353418b/)
 
 
-
-### Nkumar gudipali:boy:
+### kumar gudipali:boy:
 >  [Linkedin](https://www.linkedin.com/in/kumar-gudipalli-a37672176/)
 
 
